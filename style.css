@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(7, 6, 6);
+}
+#container{
+    height: 400px;
+    width: 400px;
+ background: linear-gradient(to left, red, yellow, green, blue);
+    border: 1px solid blue;
+}
